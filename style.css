@@ -1,0 +1,41 @@
+
+.img{
+    width: 300px;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px:
+}
+
+h1{
+    color: rgba(138, 188, 159,0.5);
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+h2{
+    background-color: rgba(138, 188, 159,0.5);
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: italic;
+}
+
+a{
+    color: rgb(62,93,103);
+}
+
+#content{
+    background-color: rgba(138, 188, 159,0.5);
+}
+
+#main-body{
+    background-color: rgba(145, 145, 142,0);
+}
+
+#hope{
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+   
